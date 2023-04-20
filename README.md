@@ -1,5 +1,5 @@
 # SinaPython
-Just for teaching purposes.\n
+Just for teaching purposes.
 We are teaching "Think Python" book, a very powerfull selfstudy book from Allen B. Downey.
 
     -----------------
