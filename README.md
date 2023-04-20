@@ -2,9 +2,9 @@
 Just for teaching purposes.
 We are teaching "Think Python" book, a very powerfull selfstudy book from Allen B. Downey.
 
-    -----------------
-    |     Table     |
-    -----------------
+-----------------
+|     Table     |
+-----------------
 1. The Way of the Program 1
         What Is a Program? 1
         Running Python 2
